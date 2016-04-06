@@ -20,7 +20,7 @@ RUN \
     oracle-java${JAVA_VERSION}-installer \
     oracle-java${JAVA_VERSION}-set-default && \
 
-  # install utilities
+  # install utilitie
   apt-get install -y \
      wget \
      curl \
